@@ -1,7 +1,7 @@
 Software Quality Assurance (SQA) is a process that assures that all software engineering processes, methods, activities, 
 and work items are monitored and comply with the defined standards. These defined standards could be one 
 or a combination of anything like ISO 9000, CMMI model, ISO15504, etc.
-
+Change
 Software quality assurance has some testing level
 1.Unit testing.
 2.Integration testing
@@ -9,3 +9,4 @@ Software quality assurance has some testing level
 4.UAT testing.
 
 A software should be tested very early in the development phase so that we can save extra costing and extra working in the beginning of the development process.
+
